@@ -1,2 +1,2 @@
 config:
-  info: "config-dev.yml配置信息"
+  info: "config-dev.yml配置信息,version = 1"
