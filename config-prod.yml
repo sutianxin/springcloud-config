@@ -1,2 +1,2 @@
 config:
-  info: "config-prod.yml配置信息"
+  info: "config-prod.yml配置信息,version = 1"
