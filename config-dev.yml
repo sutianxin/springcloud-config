@@ -1,2 +1,2 @@
-config-dev:
+config:
   info: "config-dev.yml配置信息"
